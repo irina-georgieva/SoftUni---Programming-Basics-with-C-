@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01 Pipes In Pool", "P01\P01 Pipes In Pool.csproj", "{5DDE4540-57E8-4220-B69E-84E3AAA6347D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02 Sleepy Tom Cat", "P02\P02 Sleepy Tom Cat.csproj", "{1B9A0099-40B5-47FA-BA94-148761A735F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DDE4540-57E8-4220-B69E-84E3AAA6347D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDE4540-57E8-4220-B69E-84E3AAA6347D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDE4540-57E8-4220-B69E-84E3AAA6347D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDE4540-57E8-4220-B69E-84E3AAA6347D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9A0099-40B5-47FA-BA94-148761A735F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9A0099-40B5-47FA-BA94-148761A735F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9A0099-40B5-47FA-BA94-148761A735F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9A0099-40B5-47FA-BA94-148761A735F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15F0BDE8-93EC-4CA3-A5AB-8F62DA34C4AF}
+	EndGlobalSection
+EndGlobal
